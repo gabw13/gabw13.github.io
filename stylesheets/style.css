@@ -22,6 +22,8 @@ aside {
     grid-row-end: 5;
     grid-column-start: 1;
     grid-column-end: 2;
+    color:#9D8189;
+    text-align: left;
 }
 
 body {
@@ -35,17 +37,17 @@ body {
     height: 100vh;
 }
 
-nav {
+/* nav {
     color:#9D8189;
     text-align: left;
-}
+} */
 
 ul {
     list-style: none;
 }
 
 li {
-    font-size: x-large;
+    font-size: large;
     padding: 15%;
 }
 
