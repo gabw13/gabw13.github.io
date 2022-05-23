@@ -37,18 +37,14 @@ body {
     height: 100vh;
 }
 
-/* nav {
-    color:#9D8189;
-    text-align: left;
-} */
-
 ul {
     list-style: none;
 }
 
 li {
-    font-size: large;
-    padding: 15%;
+    font-size: x-large;
+    padding-bottom: 15%;
+    padding-top: 15%;
 }
 
 a:link {
@@ -91,6 +87,7 @@ footer {
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     color: #264653;
+    padding-left: 1%;
 }
 
 .profile_img {
